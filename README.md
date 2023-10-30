@@ -1,6 +1,8 @@
-# DesktopNotifier v1.0
+# DesktopNotifier
 
 *DesktopNotifier* sends custom notifications to your OS
+
+![image](https://github.com/jedahee/Desktop-Notifier-Python-CMD/assets/56111700/769889ba-ea68-4ccc-ac79-5551f28aab7c)
 
 ## Requirements
 
