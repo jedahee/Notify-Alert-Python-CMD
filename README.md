@@ -12,6 +12,8 @@ _You need to clone the project in a local environment._
 
 _To create the notifications you need to use the *Panel.py* file, when you manage your notifications you need to run the *main.py* file and leave it open in the background and it will send the notifications (at the date and time indicated when creating the notification in the *Panel.py*) to your operating system_
 
+_**Validations.py** and **Notify.py** are not necessary files for the management of notifications but for the correct functioning of the application._
+
 _To run the different scripts:_
 
 ```
@@ -82,8 +84,3 @@ _This project does not have any lincence._
 * Tell others about this project 📢
 * Invite a beer 🍺 or a coffee ☕ to someone on the team. 
 * Say thank you publicly 🤓.
-
-
-
-
-*Validations.py* and *Notify.py* are not necessary files for the management of notifications but for the correct functioning of the application
