@@ -1,4 +1,4 @@
-# DesktopNotifier
+# NotifyAlert
 
 *DesktopNotifier* sends custom notifications to your OS
 
