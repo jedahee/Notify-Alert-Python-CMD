@@ -2,7 +2,7 @@
 
 _*NotifyAlert* sends custom notifications to your OS._
 
-![image](https://github.com/jedahee/Clickame-Web-Game/assets/56111700/fad31701-bcaa-42e4-867d-6ccadabe0afd)
+![image](https://github.com/jedahee/Desktop-Notifier-Python-CMD/assets/56111700/7767218a-1d13-4ba6-b155-2ad20354cb05)
 
 ## Getting Started 🚀
 
@@ -10,7 +10,7 @@ _You need to clone the project in a local environment._
 
 ### How to use
 
-_To create the notifications you need to use the *Panel.py* file, when you manage your notifications you need to run the *setup.py* file and leave it open in the background and it will send the notifications (at the date and time indicated when creating the notification in the *Panel.py*) to your operating system_
+_To create the notifications you need to use the *Panel.py* file, when you manage your notifications you need to run the *main.py* file and leave it open in the background and it will send the notifications (at the date and time indicated when creating the notification in the *Panel.py*) to your operating system_
 
 _To run the different scripts:_
 
