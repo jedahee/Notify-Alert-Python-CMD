@@ -40,7 +40,7 @@ _These are the next steps to be able to execute the project in your local enviro
 _You can use Git or Github to clone the project in a local environment. If you use Github you must click on the button that says 'Code' and then on 'Download Zip'. But if you use Git you can use the following command:_
 
 ```
-git clone https://github.com/jedahee/Desktop-Notifier-Python-CMD.git)
+git clone https://github.com/jedahee/Notify-Alert-Python-CMD.git)
 ```
 
 Next, you need to install the project dependencies, to do this, run:
